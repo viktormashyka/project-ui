@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ba6b0ace-09ff-45d7-b564-bb45b238f42f"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.projectui"
+    },
+    "android": {
+      "package": "org.reactjs.native.projectui"
+    }
+  }
+}
